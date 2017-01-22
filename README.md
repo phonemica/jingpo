@@ -1,2 +1,1 @@
-# jingpo
-Jingpo/Singpho/Kachin dictionary app
+# 景颇语词典
