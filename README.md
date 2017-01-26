@@ -3,3 +3,6 @@
 
 ## 截圖
 ![](http://phonemica.net/github/jingpo20170126.jpg)
+
+## 下載
+可在3月13日後下載
