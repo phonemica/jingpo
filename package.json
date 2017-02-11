@@ -1,17 +1,34 @@
 {
-  "name": "AilotDict",
-  "version": "0.0.1",
+  "name": "ailotdict",
+  "version": "0.13.0",
+  "description": "mobile dictionary",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/phonemica/singpho.git"
+  },
+  "author": "柯禕藍",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phonemica/singpho/issues"
+  },
+  "homepage": "https://github.com/phonemica/singpho#readme",
   "dependencies": {
+    "pouchdb": "^6.1.1",
+    "pouchdb-adapter-http-react-native": "^1.0.4",
+    "pouchdb-authentication": "^0.5.5",
+    "pouchdb-react-native": "^6.1.25",
     "react": "^15.1.0",
-    "react-native": "^0.27.2",
+    "react-native": "^0.40",
+    "react-native-linear-gradient": "^2.0.0",
     "react-native-radio-buttons": "^0.13.0",
     "react-native-simple-radio-button": "^2.1.0",
     "react-native-simple-store": "^1.0.1",
+    "react-native-smart-splash-screen": "^2.2.1",
     "react-native-sound": "^0.8.3",
-    "react-native-splash-screen": "^2.0.0",
     "react-native-vector-icons": "^2.0.3",
     "react-native-ya-navigator": "^0.6.10",
     "string-similarity": "^1.1.0"
